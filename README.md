@@ -82,6 +82,12 @@ pip install -r requirements.txt
 * Driver assistance systems
 
 ---
+## 📥 Download Model
+Download the trained model from:
+[Google Drive Link](https://drive.google.com/file/d/1m10Z3uKsnUN3QiHXqmG7BuNB5suG-6tl/view?usp=sharing)
+
+Place it inside:
+model/traffic_sign_detector.pt
 
 ## 👨‍💻 Author
 
